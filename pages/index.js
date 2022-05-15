@@ -39,8 +39,8 @@ export default function Home() {
         <meta name="description" content="App for look your score in that game include the leaderboard" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Flex w={['400px','400px','1000px','1000px']} height="550px" borderRadius="19px" overflow="hidden">
-        <Flex w={["100%","100%","650px","650px"]} bgColor="#121122" direction='column'>
+      <Flex w="400px" height="550px" borderRadius="19px" overflow="hidden" boxShadow="dark-lg">
+        <Flex w="100%" bgColor="#121122" direction='column'>
           <Flex justifyContent="center" alignItems="center" my="12">
             <Image src='/tameng.jpg' alt='icon aplikasi' height='100px' width='100px' ></Image>
           </Flex>
@@ -53,13 +53,6 @@ export default function Home() {
             </Flex>
           </Box>
         </Flex>
-        <Box display={['none', 'none', 'flex', 'flex']} flexShrink="0" w="350px" position="relative" justifyContent="center" alignItems="center">
-          <Box position="absolute" zIndex="9" color="secondary">
-            <Heading size="lg" textAlign="center" mb="3">Disini</Heading>
-            <Heading fontWeight="light" size="lg" textAlign="center">Tambahin kata kata apa ya yang bagus</Heading>
-          </Box>
-          <Image src='/bg.jpg' width='350px' height="550px" alt='Gambar bagus' ></Image>
-        </Box>
       </Flex>
     </div>
   )
