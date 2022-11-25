@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="900" viewBox="0 0 700 900">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.895" y1="-0.147" x2="0" y2="1.105" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d07efc"/>
+      <stop offset="1" stop-color="#9c8ef1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9c8ef1"/>
+      <stop offset="1" stop-color="#d07efc"/>
+    </linearGradient>
+    <filter id="Rectangle_3" x="309.151" y="-91.441" width="472.233" height="382.34" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#9c8ef1" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="1" y2="1.322" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9c8ef1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-custom_1">
+      <rect width="700" height="900"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <rect width="700" height="900" fill="#f5f6fc"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(216 267)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <circle cx="228" cy="228" r="228" stroke="none"/>
+      <circle cx="228" cy="228" r="227.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="96" cy="96" r="96" transform="translate(273 303)" fill="#fff" opacity="0.08"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="52" cy="52" r="52" transform="translate(342 381)" fill="#fff" opacity="0.08"/>
+    <path id="Exclusion_1" data-name="Exclusion 1" d="M127.584,102H84.412a27.65,27.65,0,0,1-8.275-1.241,26.1,26.1,0,0,1-7.015-3.418A27.488,27.488,0,0,1,57.634,71.013,26.1,26.1,0,0,1,59.9,63.545a27.651,27.651,0,0,1,4.719-6.91L86.206,33.371a26.972,26.972,0,0,1,39.585,0l21.586,23.264a27.651,27.651,0,0,1,4.719,6.91,26.1,26.1,0,0,1,2.266,7.468,27.488,27.488,0,0,1-11.487,26.328,26.1,26.1,0,0,1-7.015,3.418A27.65,27.65,0,0,1,127.584,102ZM107.007,37.456a16.9,16.9,0,0,0-11.947,4.906L72.175,64.968A17,17,0,0,0,84.123,94.063h45.769A17,17,0,0,0,141.84,64.968L118.955,42.362A16.9,16.9,0,0,0,107.007,37.456Z" transform="matrix(0.891, -0.454, 0.454, 0.891, 81.785, 780.029)" fill="url(#linear-gradient-2)"/>
+    <path id="Exclusion_2" data-name="Exclusion 2" d="M59,118A59.015,59.015,0,0,1,36.035,4.637,59.015,59.015,0,0,1,81.966,113.363,58.63,58.63,0,0,1,59,118Zm0-95A36,36,0,1,0,95,59,36.041,36.041,0,0,0,59,23Z" transform="translate(136 24)" fill="#9c8ef1"/>
+    <path id="Exclusion_3" data-name="Exclusion 3" d="M61,44H0L30.5,0ZM30.5,11.282,10.845,39.487H50.155Z" transform="translate(374.249 599.237) rotate(47)" fill="#fff"/>
+    <path id="Exclusion_4" data-name="Exclusion 4" d="M59,118A59.015,59.015,0,0,1,36.035,4.637,59.015,59.015,0,0,1,81.966,113.363,58.63,58.63,0,0,1,59,118Zm0-95A36,36,0,1,0,95,59,36.041,36.041,0,0,0,59,23Z" transform="translate(530 481)" fill="#fcfbff" opacity="0.08"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="10.5" cy="10.5" r="10.5" transform="translate(530 303)" fill="#fff"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="5.5" cy="5.5" r="5.5" transform="translate(495 663)" fill="#fff"/>
+    <path id="Exclusion_5" data-name="Exclusion 5" d="M53,60H17.666V48.126H0V0H47.111V23.75H53V60ZM17.666,48.126H47.111V23.75H17.666Z" transform="translate(279 520)" fill="#fff" opacity="0.13"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_3)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="175" height="30" rx="15" transform="translate(457.65 114.03) rotate(-19)" fill="#9c8ef1"/>
+    </g>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="175" height="30" rx="15" transform="translate(497.117 139.576) rotate(-19)" fill="#d07efc"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="47" cy="47" r="47" transform="translate(50 296)" fill="#9c8ef1"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="37" cy="37" r="37" transform="translate(70 316)" fill="#d07efc"/>
+    <path id="Exclusion_6" data-name="Exclusion 6" d="M47,94A47.012,47.012,0,0,1,28.706,3.694,47.012,47.012,0,0,1,65.294,90.306,46.707,46.707,0,0,1,47,94Zm0-84A37,37,0,1,0,84,47,37.042,37.042,0,0,0,47,10Z" transform="translate(578 798)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="40" height="39" transform="translate(54.513 536.862) rotate(45)" fill="#9c8ef1"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="23" height="22" transform="translate(61.492 592.883) rotate(45)" fill="#d07efc"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1580" height="1580" viewBox="0 0 1580 1580">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.845" y1="0.058" x2="-0.585" y2="2.381" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6661fe"/>
+      <stop offset="1" stop-color="#fe0000"/>
+    </linearGradient>
+    <filter id="Ellipse_4" x="0" y="0" width="1580" height="1580" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#d07efc" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1" x="174" y="174" width="1232" height="1232" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-color="#d07efc" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(298.5 298.5)">
+    <g transform="matrix(1, 0, 0, 1, -298.5, -298.5)" filter="url(#Ellipse_4)">
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="491.5" cy="491.5" r="491.5" transform="translate(298.5 298.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -298.5, -298.5)" filter="url(#Ellipse_1)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="467.5" cy="467.5" r="467.5" transform="translate(322.5 322.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(668 139)" opacity="0.04">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="290" height="270" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="237" height="221" transform="translate(0 49)" fill="#fbf9f9" opacity="0.23"/>
+    </g>
+    <path id="Exclusion_1" data-name="Exclusion 1" d="M229,217H0V0H229V217ZM43.264,41.675V175.325H185.736V41.675Z" transform="translate(352 552)" fill="#fff" opacity="0.03"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="92.5" cy="92.5" r="92.5" transform="translate(85 284)" fill="#fff" opacity="0.04"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="60.5" cy="60.5" r="60.5" transform="translate(146 409)" fill="#fff" opacity="0.04"/>
+  </g>
+</svg>

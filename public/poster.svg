@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="800" viewBox="0 0 500 800">
+  <defs>
+    <clipPath id="clip-poster">
+      <rect width="500" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="poster" clip-path="url(#clip-poster)">
+    <rect width="500" height="800" fill="#2548f8"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M88,0l88,137H0Z" transform="matrix(0.819, 0.574, -0.574, 0.819, 363.205, 206.913)" fill="#343434" opacity="0.12"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M88,0l88,137H0Z" transform="translate(329.211 760.061) rotate(-48)" fill="#343434" opacity="0.12"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M70,0l45.689,16.524L140,58.365l-8.443,47.58L94.311,137H45.689L8.443,105.945,0,58.365,24.311,16.524Z" transform="matrix(0.819, 0.574, -0.574, 0.819, 301.205, 504.913)" fill="#343434" opacity="0.12"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M88,0l88,137H0Z" transform="matrix(0.921, -0.391, 0.391, 0.921, -32.77, 68.83)" fill="#343434" opacity="0.12"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(376.219 17.004) rotate(47)" fill="#e6ff64" stroke="#707070" stroke-width="1">
+      <rect width="155" height="36" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="154" height="35" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(376.219 86.004) rotate(47)" fill="#e6ff64" stroke="#707070" stroke-width="1">
+      <rect width="155" height="36" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="154" height="35" rx="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(8 619)" fill="#e6ff64" stroke="#707070" stroke-width="1">
+      <circle cx="61" cy="61" r="61" stroke="none"/>
+      <circle cx="61" cy="61" r="60.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(119 718)" fill="#e6ff64" stroke="#707070" stroke-width="1">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="31.5" fill="none"/>
+    </g>
+    <text id="Ikutilah_" data-name="Ikutilah!" transform="translate(18 97)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">IKUTILAH!</tspan></text>
+    <text id="Hackathon" transform="translate(128 227)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Hackathon</tspan></text>
+    <text id="Pemrograman_AI" data-name="Pemrograman AI" transform="translate(59 267)" fill="#fff" font-size="50" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Pemrograman AI</tspan></text>
+    <text id="Peraturan_Hackathon" data-name="Peraturan Hackathon" transform="translate(14 337)" fill="#fff" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Peraturan Hackathon</tspan></text>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(18 355)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Membuat_AI_yang_untuk_video_editing" data-name="Membuat AI yang untuk video editing" transform="translate(36 365)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Membuat AI yang untuk video editing</tspan></text>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(17 376)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Bebas_Menggunakan_Bahasa_pemrograman_apapun" data-name="Bebas Menggunakan Bahasa pemrograman apapun" transform="translate(35 386)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Bebas Menggunakan Bahasa pemrograman apapun</tspan></text>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(17 397)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Batas_waktu_48_jam" data-name="Batas waktu 48 jam" transform="translate(35 407)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Batas waktu 48 jam</tspan></text>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(17 418)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Dilarang_meminta_bantuan_dari_pihak_ketiga" data-name="Dilarang meminta bantuan dari pihak ketiga" transform="translate(35 428)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Dilarang meminta bantuan dari pihak ketiga</tspan></text>
+    <text id="Hadiah" transform="translate(13 469)" fill="#fff" font-size="21" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Hadiah</tspan></text>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(17 487)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Juara_I_Rp._5.000.000_piala_piagam" data-name="Juara I Rp. 5.000.000 + piala + piagam" transform="translate(35 497)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Juara I Rp. 5.000.000 + piala + piagam</tspan></text>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(16 508)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Juara_II_Rp._2.000.000_piala_piagam" data-name="Juara II Rp. 2.000.000 + piala + piagam" transform="translate(34 518)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Juara II Rp. 2.000.000 + piala + piagam</tspan></text>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(16 529)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Juara_III_Rp._1.000.000_piala_piagam" data-name="Juara III Rp. 1.000.000 + piala + piagam" transform="translate(34 539)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Juara III Rp. 1.000.000 + piala + piagam</tspan></text>
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(15 550)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <text id="Sisanya_hanya_akan_mendapatkan_piagam" data-name="Sisanya hanya akan mendapatkan piagam" transform="translate(33 560)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Sisanya hanya akan mendapatkan piagam</tspan></text>
+    <text id="Daftar_kan_dirimu_segera_di_:_https:_ikut-lomba-ai.com_daftar_Batas_penerimaan_peserta_sampai_dengan" data-name="Daftar kan dirimu segera di :
+https://ikut-lomba-ai.com/daftar
+
+Batas penerimaan peserta sampai dengan" transform="translate(151 616)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Daftar kan dirimu segera di :</tspan><tspan x="0" y="22">https://ikut-lomba-ai.com/daftar</tspan><tspan x="0" y="44"></tspan><tspan x="0" y="66">Batas penerimaan peserta sampai dengan</tspan></text>
+    <text id="_20_September_2022" data-name="20 September 2022" transform="translate(234 714)" fill="#fff" font-size="17" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">20 September 2022</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="195" height="87" transform="matrix(0.883, 0.469, -0.469, 0.883, 56.835, 378.318)" fill="#343434" opacity="0.12"/>
+  </g>
+</svg>
