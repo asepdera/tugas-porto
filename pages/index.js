@@ -97,7 +97,7 @@ export default function Home() {
               backgroundImage='radial-gradient(50% 50% at 50% 50%,#aDcBF6 0,hsla(0,0%,100%,0) 100%)'
               top='-190px' right='-320px' opacity='.3' zIndex={1}></Box>
             <Flex w='100%' alignItems='center' justify='start' minH='100px' minW='200px'>
-              <iframe width="100%" height='200px' src="https://www.youtube.com/embed/q8EG0LVlHCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="100%" height='200px' src="https://www.youtube.com/embed/q8EG0LVlHCk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </Flex>
             <Flex w='100%' direction='column' align='flex-end' px={4}>
               <Heading size='md' color="#9A8DEF" fontSize={['0.9rem','1rem','1.15rem','1.25rem']}>Animation</Heading>
@@ -112,7 +112,7 @@ export default function Home() {
               <Text mt={['20px','24px','28px','34px']} fontWeight='600' textAlign='start' fontSize={['11px','13px','14px','16px']}>Animasi 3 dimensi yang juga bertemakan tata surya yang dibuat di aplikasi Blender untuk memenuhi tugas animasi.</Text>
             </Flex>
             <Flex w='50%' alignItems='center' justify='end' minH='100px' minW='200px'>
-              <iframe width="100%" height="200px" src="https://www.youtube.com/embed/xaQjTJCVmCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe width="100%" height="200px" src="https://www.youtube.com/embed/xaQjTJCVmCM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
             </Flex>
           </Flex>
           <Flex mt='28' position='relative'>
