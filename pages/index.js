@@ -1,5 +1,5 @@
 import { Box, Flex, Heading, Text, Image } from '@chakra-ui/react'
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Header from '../component/Header'
 
 export default function Home() {
@@ -36,7 +36,7 @@ export default function Home() {
               backgroundImage='radial-gradient(50% 50% at 50% 50%,#aDcBF6 0,hsla(0,0%,100%,0) 100%)'
               top='-190px' right='-320px' opacity='.3' zIndex={1}></Box>
           <Flex w='100%' alignItems='center' justify='start' display={['none','none','block','block']}>
-            <Image src='./programmer.svg' h='300px' w='400px' minH='70px' minW='150px'/>
+            <Image alt="ini gambar" src='./programmer.svg' h='300px' w='400px' minH='70px' minW='150px'/>
           </Flex>
           <Flex w='100%' direction='column' align='flex-end' px={[5,3,2,0]}>
             <Heading fontSize={['0.9rem','1rem','1.15rem','1.25rem']} color="#9A8DEF">Mengenal</Heading>
@@ -62,7 +62,7 @@ export default function Home() {
                 untuk memenuhi tugas Design Grafis.</Text>
             </Flex>
             <Flex w='100%' justify='end'>
-              <Image src='./custom card.png' h='200px' w='400px' className='gambar-animate' minH='100px' minW='200px'/>
+              <Image alt="ini gambar" src='./custom card.png' h='200px' w='400px' className='gambar-animate' minH='100px' minW='200px'/>
             </Flex>
           </Flex>
           <Flex mt='28' position='relative'>
@@ -71,7 +71,7 @@ export default function Home() {
               backgroundImage='radial-gradient(50% 50% at 50% 50%,#aDcBF6 0,hsla(0,0%,100%,0) 100%)'
               top='-190px' right='-320px' opacity='.3' zIndex={1}></Box>
             <Flex w='100%' justify='start'>
-              <Image src='./poster.svg' w={['150px','250px','300px','350px']} h='400px' className='gambar-animate'/>
+              <Image alt="ini gambar" src='./poster.svg' w={['150px','250px','300px','350px']} h='400px' className='gambar-animate'/>
             </Flex>
             <Flex w='100%' direction='column' align='flex-end' mt='7'>
               <Heading size='md' color="#9A8DEF" fontSize={['0.9rem','1rem','1.15rem','1.25rem']} textAlign='end'>Design Grafis</Heading>
@@ -88,7 +88,7 @@ export default function Home() {
                 untuk memenuhi tugas Design Grafis.</Text>
             </Flex>
             <Flex w='100%' alignItems='center' justify='end'>
-              <Image src='./custom card.png' h='200px' w='400px' className='gambar-animate' minH='70px' minW='120px'/>
+              <Image alt="ini gambar" src='./custom card.png' h='200px' w='400px' className='gambar-animate' minH='70px' minW='120px'/>
             </Flex>
           </Flex>
           <Flex mt='28' position='relative'>
@@ -121,7 +121,7 @@ export default function Home() {
               backgroundImage='radial-gradient(50% 50% at 50% 50%,#aDcBF6 0,hsla(0,0%,100%,0) 100%)'
               top='-190px' right='-320px' opacity='.3' zIndex={1}></Box>
             <Flex w='100%' alignItems='center' justify='start'>
-              <Image src='./poster.svg' w='300px' className='gambar-animate'/>
+              <Image alt="ini gambar" src='./poster.svg' w='300px' className='gambar-animate'/>
             </Flex>
             <Flex w='100%' direction='column' align='flex-end' mt='7'>
               <Heading size='md' color="#9A8DEF" fontSize={['0.9rem','1rem','1.15rem','1.25rem']}>Streaming</Heading>
@@ -134,13 +134,13 @@ export default function Home() {
         <Flex w='100%' px='5' py={['10','12','14','16']} justify='center' direction='column' className='alat' mt='40'>
           <Heading fontSize={['1rem','1.15rem','1.35rem','1.5rem']} textAlign='center' color='white'>Aplikasi yang dipakai</Heading>
           <Flex justify='space-evenly' mt='7'>
-            <Image src='./adobe-photoshop.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./adobe-xd.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./after-effects.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./blender.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./premiere-cc.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./obs.svg' h={['25px','35px','65px','75px']}/>
-            <Image src='./vscode.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./adobe-photoshop.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./adobe-xd.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./after-effects.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./blender.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./premiere-cc.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./obs.svg' h={['25px','35px','65px','75px']}/>
+            <Image alt="ini gambar" src='./vscode.svg' h={['25px','35px','65px','75px']}/>
           </Flex>
         </Flex>
       </Box>
